@@ -1,3 +1,5 @@
 new file in testbranch
 
 new string
+
+Новая строка с конфликтом
