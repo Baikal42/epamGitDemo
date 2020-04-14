@@ -8,3 +8,5 @@ new string
 
 conflict pull
 
+conflict string on GitHub
+
