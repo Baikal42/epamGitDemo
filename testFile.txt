@@ -3,3 +3,5 @@ new file in testbranch
 new string
 
 Новая строка с решенным конфликтом
+
+Новый коммит для cherry pick
