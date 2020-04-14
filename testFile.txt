@@ -8,5 +8,5 @@ new string
 
 conflict pull
 
-one more conflict
+solve conflict
 
